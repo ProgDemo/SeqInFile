@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1521536702 source:e:\elte\prog_demo\students\main.cpp
+	<iostream>
+	"InFile.h"
+	"OutFile.h"
+
+1521536792 source:e:\elte\prog_demo\students\student.cpp
+	"Student.h"
+
+1521536792 e:\elte\prog_demo\students\student.h
+	<sstream>
+
+1521478870 source:e:\elte\prog_demo\students\infile.cpp
+	"InFile.h"
+
+1521478963 e:\elte\prog_demo\students\infile.h
+	<iostream>
+	<fstream>
+	<sstream>
+	"Student.h"
+	<string>
+
+1521481114 source:e:\elte\prog_demo\students\outfile.cpp
+	"OutFile.h"
+
+1521498144 e:\elte\prog_demo\students\outfile.h
+	<fstream>
+	<sstream>
+	"Student.h"
+

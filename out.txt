@@ -1,0 +1,2 @@
+X Y, (AAAAAA), +-+-+-
+CD, (CCCCCC), ++++-+
